@@ -1,0 +1,5 @@
+[application]
+config_version = 1
+show_toasts = true
+theme = "vapor"
+debug_mode = true
